@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "841063620515",
+    "project_id": "kidshield-89a90",
+    "storage_bucket": "kidshield-89a90.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841063620515:android:86d8370049c1e789a8c416",
+        "android_client_info": {
+          "package_name": "com.kidshield.childapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDypN_ZZZolHmAOtxwb0OvbT0dGSPkXtCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
